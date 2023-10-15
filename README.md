@@ -11,7 +11,7 @@ In English or German
 #### 🛠 Languages and Tools
 <p>
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"></code>
   <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Atlassian-logo.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
