@@ -12,7 +12,7 @@ In English or German
 <p>
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"></code>
+  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Atlassian-logo.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
