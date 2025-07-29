@@ -5,7 +5,7 @@ I am Fabian an Atlassian expert who likes working with Python, docker and AWS es
 #### 📫 How to reach me
 In English or German
 
-- [Mail](mailto:fabian.duft@kreuzwerker.de)
+- [Mail](mailto:fabian.duft@pcg.io)
 - [LinkedIn](https://www.linkedin.com/in/fabian-duft-52b090193/)
 
 #### 🛠 Languages and Tools
